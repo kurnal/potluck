@@ -2,9 +2,9 @@
 
 # CMSC436 Project Proposal: Potluck
 ## Project Team
+* Kurnal Saini
 * Sierra Seabrease
 * Isha Angadi
-* Kurnal Saini
 * Rahul Khanna
 
 ## App Description
