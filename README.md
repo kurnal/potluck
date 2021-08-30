@@ -1,4 +1,4 @@
-# App Walkthrough was posted on campus wire and youtube: https://www.youtube.com/watch?v=G_BuIAYr2wM&ab_channel=Kurnalsaini
+## App Walkthrough was posted on campus wire and youtube: https://www.youtube.com/watch?v=G_BuIAYr2wM&ab_channel=Kurnalsaini
 
 # CMSC436 Project Proposal: Potluck
 ## Project Team 18
