@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>16213047118-rq2vrdlru6oemhjc74es0ek5kieh3m7i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.16213047118-rq2vrdlru6oemhjc74es0ek5kieh3m7i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDGRNRF5MXoMNiHYrpjn3BEdR3B1GJVLxA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>16213047118</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sseabrea.PotLuck</string>
+	<key>PROJECT_ID</key>
+	<string>potluck-38760</string>
+	<key>STORAGE_BUCKET</key>
+	<string>potluck-38760.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:16213047118:ios:05d130db94b65fc790d01f</string>
+</dict>
+</plist>
